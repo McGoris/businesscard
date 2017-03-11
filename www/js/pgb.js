@@ -18,17 +18,17 @@ function deviceInfo() {
 			'Device Version : '  + device.version  + '\n';
 
 	navigator.notification.alert(info);
-	
+}
 function mcgorisInfo() {
 	
-/*	info = 'Siema, tu mcgoris ' + '\n' +
+	info = 'Siema, tu mcgoris ' + '\n' +
 		   'Imie : ' + 'Marcin' +  '\n' +
 		   'Nazwisko : ' + 'Goryl' +  '\n' +
 		   'E-mail : ' + 'mcgoris@o2.pl' +  '\n' +
 		   'Website : ' + 'mcastronomia.blogspot.com' + '\n' +
 		   'Grupa : ' + 'Informatyka i Ekonometria' + '\n' +
 		   'Studia : ' + '3 rok' + '\n';
-*/		   
+	   
 	navigator.notification.alert("abc");
 	
 }

@@ -29,7 +29,7 @@ function mcgorisInfo() {
 		   'Grupa : ' + 'Informatyka i Ekonometria' + '\n' +
 		   'Studia : ' + '3 rok' + '\n';
 	   
-	navigator.notification.alert("abc");
+	navigator.notification.alert(info);
 	
 }
 	

@@ -27,7 +27,7 @@ function mcgorisInfo() {
 		   'E-mail : ' + 'mcgoris@o2.pl' +  '\n' +
 		   'Website : ' + 'mcastronomia.blogspot.com' + '\n' +
 		   'Grupa : ' + 'Informatyka i Ekonometria' + '\n' +
-		   'Studia : ' + '3 rok' + '\n' +;
+		   'Studia : ' + '3 rok' + '\n';
 		   
 	navigator.notification.alert(info);
 	
